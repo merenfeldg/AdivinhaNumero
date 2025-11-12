@@ -78,7 +78,7 @@ class GuessNumberController: ObservableObject {
             return
         }
         showErrorAlert = true
-        messageErrorAlert = "Escolha um número inteiro positivo que esteja entre 1 a 1000!"
+        messageErrorAlert = "Escolha um número inteiro positivo que esteja entre 1 a 100!"
     }
     
     func restartGame() {
@@ -101,7 +101,7 @@ class GuessNumberController: ObservableObject {
         if let number = Int(inputText) {
             if number < 1 || number > 100 {
                 showErrorAlert = true
-                messageErrorAlert = "O número precisa estar entre 1 e 1000. Tente novamente!"
+                messageErrorAlert = "O número precisa estar entre 1 e 100. Tente novamente!"
                 return true
             } else { return false }
         }
