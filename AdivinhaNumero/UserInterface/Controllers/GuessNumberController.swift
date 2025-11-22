@@ -27,10 +27,10 @@ class GuessNumberController: ObservableObject {
             gameLogic.startChoosenNumber(number)
             self.inputText = ""
             
-            self.state = .notGuessedNumber(
+            emitState(.notGuessedNumber(
                 messageInterval: "Escolha um número entre 1 a 100",
                 messageSuggestion: "Será que é 50? 🤔"
-            )
+            ))
         }
     }
     
