@@ -19,7 +19,7 @@ class GuessNumberController: ObservableObject {
     
     func startGame() {
         if verifyInputTextIsEmpty() { return }
-        if verifyNumberIsNotBetween1And1000() { return }
+        if verifyNumberIsNotBetween1And100() { return }
         
         if let number = Int(inputText) {
 
@@ -36,7 +36,7 @@ class GuessNumberController: ObservableObject {
     
     func guessNumber() {
         if verifyInputTextIsEmpty() { return }
-        if verifyNumberIsNotBetween1And1000() { return }
+        if verifyNumberIsNotBetween1And100() { return }
         
         if let number = Int(inputText) {
             let responseGenerateGuess = gameLogic.generateGuess(number)
@@ -97,7 +97,7 @@ class GuessNumberController: ObservableObject {
         return false
     }
     
-    private func verifyNumberIsNotBetween1And1000() -> Bool {
+    private func verifyNumberIsNotBetween1And100() -> Bool {
         if let number = Int(inputText) {
             if number < 1 || number > 100 {
                 showErrorAlert = true
