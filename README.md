@@ -8,7 +8,7 @@ Um jogo simples de adivinhação para duas pessoas, onde uma escolhe um número 
 
 | Demonstração do Aplicativo |
 |----------------------------|
-| [Image](https://github.com/user-attachments/assets/2eb64f7e-cfac-41a2-9e07-ec6746a1f191) |
+| <img src="https://github.com/user-attachments/assets/2eb64f7e-cfac-41a2-9e07-ec6746a1f191"/> |
 
 </div>
 <br>
