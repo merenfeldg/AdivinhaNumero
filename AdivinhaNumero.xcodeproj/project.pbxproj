@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		923BD1A92ED4CB5100824EE3 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 923BD1A82ED4CB4400824EE3 /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		92E272352E76E73900A78FDA /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -24,6 +28,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		923BD1A82ED4CB4400824EE3 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		92E272272E76E73800A78FDA /* AdivinhaNumero.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AdivinhaNumero.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		92E272342E76E73900A78FDA /* AdivinhaNumeroTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AdivinhaNumeroTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		92E2723E2E76E73900A78FDA /* AdivinhaNumeroUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AdivinhaNumeroUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -75,6 +80,7 @@
 		92E2721E2E76E73800A78FDA = {
 			isa = PBXGroup;
 			children = (
+				923BD1A82ED4CB4400824EE3 /* README.md */,
 				92E272292E76E73800A78FDA /* AdivinhaNumero */,
 				92E272372E76E73900A78FDA /* AdivinhaNumeroTests */,
 				92E272412E76E73900A78FDA /* AdivinhaNumeroUITests */,
@@ -212,6 +218,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				923BD1A92ED4CB5100824EE3 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
