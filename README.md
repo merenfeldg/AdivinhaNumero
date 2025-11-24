@@ -2,6 +2,16 @@
 Um jogo simples de adivinhação para duas pessoas, onde uma escolhe um número e a outra tenta descobrir qual é. 
 <br>
 **Tecnologias utilizadas**: Swift e SwiftUI
+<br>
+
+<div align="center">
+
+| Demonstração do Aplicativo |
+|----------------------------|
+| <img ![Image](https://github.com/user-attachments/assets/2eb64f7e-cfac-41a2-9e07-ec6746a1f191)/> |
+
+</div>
+<br>
 
 ## Índice
 
