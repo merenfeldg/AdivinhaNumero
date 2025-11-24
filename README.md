@@ -5,10 +5,10 @@ Um jogo simples de adivinhação para duas pessoas, onde uma escolhe um número 
 
 ## 🔗 Índice
 
-I. [📍 Visão Geral](#-visao-geral)  
-II. [🏗️ Arquitetura](#-arquitetura)  
-III. [🚀 Instalação](#-instalacao)  
-VI. [🙌 Agradecimentos](#-agradecimentos)
+I. [📍 Visão Geral](#📍-visão-geral)
+II. [🏗️ Arquitetura](#🏗️-arquitetura)  
+III. [🚀 Instalação](#🚀-instalação)  
+VI. [🙌 Agradecimentos](#🙌-agradecimentos)
 
 ---
 
