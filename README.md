@@ -3,7 +3,7 @@ Um jogo simples de adivinhação para duas pessoas, onde uma escolhe um número 
 <br>
 **Tecnologias utilizadas**: Swift e SwiftUI
 
-## 🔗 Índice
+## Índice
 
 I. [📍 Visão Geral](#-visão-geral) <br>
 II. [🏗️ Arquitetura](#-arquitetura)  
@@ -12,7 +12,7 @@ VI. [🙌 Agradecimentos](#-agradecimentos)
 
 ---
 
-## 📍 Visão Geral
+## Visão Geral
 
 AdivinheNúmero é um projeto desenvolvido no início do curso presencial de 3 meses da **PUC-Rio**, chamado **Swift Foundation Graduação**, realizado em parceria com a **Ecoa** e a **Apple Developer Academy**.
 <br><br>
@@ -22,7 +22,7 @@ A busca binária foi implementada de forma que a sugestão apareça logo abaixo 
 
 ---
 
-## 🏗️ Arquitetura
+## Arquitetura
 
 O projeto segue uma arquitetura baseda em **MVVM (Model-View-ViewModel)**, com uma **separação clara entre as camadas de domínio e de interface**.
 
@@ -46,7 +46,7 @@ O projeto segue uma arquitetura baseda em **MVVM (Model-View-ViewModel)**, com u
 
 ---
 
-## 🚀 Instalação
+## Instalação
 
 ### Pré-requisitos:
 - Xcode (versão mais recente disponível na App Store)
