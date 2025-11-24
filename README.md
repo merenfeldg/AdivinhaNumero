@@ -64,3 +64,7 @@ cd AdivinhaNumero
 <br>
 
 ---
+
+## Agradecimentos
+
+Obrigado ao Ricardo Almeida, ao Victor e à Flora por esses três meses de curso no Swift Foundation Graduação. Foram meses de muito aprendizado em desenvolvimento iOS e design. 
